@@ -1,0 +1,13 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Projeto bytebank para seus clientes (Projto de estudo Alura)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Vitor",
+  "license": "ISC",
+  "type": "module"
+}
